@@ -1,1 +1,1 @@
-# ScRNA_seq_analysis
+# Singel-Cell RNA sequencing anaysis pipeline
